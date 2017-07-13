@@ -3,7 +3,7 @@
 ## Instalacion
 
 1. Descarga el .zip
-2. Extraelo en tu "home folder"
+2. Extraelo en tu home folder ej. "/Macintosh HD/Usuarios/pedrito/nasa-scrap"
 
 ## Ejecucion
 
