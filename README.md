@@ -8,8 +8,8 @@
 ## Ejecucion
 
 1. Abre la aplicacion Terminal
-2. Escribe "cd nasa-scrap | py scrap.py"
-3. Presiona ENTER
+2. Pega "cd nasa-scrap" y ENTER
+3. Pega "py scrap.py" y ENTER
 
 ## Disfruta :P
 
